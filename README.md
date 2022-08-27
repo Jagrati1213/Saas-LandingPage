@@ -1,5 +1,5 @@
 # Saas-LandingPage
-I creat this project for my pratice.
+I create this project for my pratice.
 ## Used language ##
 - HTML 
 - CSS
