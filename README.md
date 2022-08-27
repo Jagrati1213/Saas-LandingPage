@@ -1,5 +1,5 @@
 # Saas-LandingPage
-It was an intern assignment.
+I creat this project for my pratice.
 ## Used language ##
 - HTML 
 - CSS
